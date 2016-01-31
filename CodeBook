@@ -1,3 +1,8 @@
+
+#How to get some profit from this =)
+1. You have to download sourse data from link below and unzip it to working directory of R Studio.
+2. You have to perform R script.
+
 #About souce data
 As sourse data for work was used Human Activity Recognition Using Smartphones Data Set. A full description is available at the site where the data was obtained:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -23,7 +28,7 @@ File with R code "run_analysis.R" perform 5 following steps (in accordance assig
   5.1 Making second tidy data set 
   5.2 Writing second tidy data set in txt file
 
-# Variables
+# About variables
 * `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` contain the data from the downloaded files.
 * `x_data`, `y_data` and `subject_data` merge the previous datasets to further analysis.
 * `features` contains the correct names for the `x_data` dataset, which are applied to the column names stored in
